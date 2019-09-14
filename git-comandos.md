@@ -306,6 +306,6 @@ git clone <url> **(Trae un proyecto alojado en Git-Hub)**
 
 git remote add origin <url> **(Carga en Git-Hub un proyecto nuevo)**
 
-git push -u origin master  **(Ejecutar carga del branch Master a Git-Hub)**
+git push -u origin master  **(Ejecuta carga del branch Master a Git-Hub)**
 ---------------------------------------------------------------------------
 ```

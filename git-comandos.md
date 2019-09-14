@@ -275,11 +275,8 @@ Merge con master de un fork
 	git merge upstream/master
 ```
 
-## Notas rapidas
-**final
+## Notas finales
 
-```
--------------------------------------------------------------------------
 git commit **(Guardar los cambios)**
 
 git commit -m "nota" **(Guardar los cambios y asigna nota al head)**
@@ -307,5 +304,3 @@ git clone <url> **(Trae un proyecto alojado en Git-Hub)**
 git remote add origin <url> **(Carga en Git-Hub un proyecto nuevo)**
 
 git push -u origin master  **(Ejecuta carga del branch Master a Git-Hub)**
----------------------------------------------------------------------------
-```

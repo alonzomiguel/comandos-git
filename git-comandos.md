@@ -212,6 +212,11 @@ Elimina sin preguntar
 ```ssh
 	git branch -D <nameBranch>
 ```
+Cambiar de Rama
+```ssh
+	git checkout <nombre branch>
+```
+
 ## GIT TAG
 
 Muestra una lista de todos los tags

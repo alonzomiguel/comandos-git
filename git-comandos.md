@@ -11,6 +11,8 @@
 ```
 ```ssh
     git remote set-url origin https://github.com/MyRepo/project.git
+```
+```ssh
 	git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
 ```
 ```ssh

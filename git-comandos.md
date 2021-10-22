@@ -1,3 +1,22 @@
+## Como Subir un Proyecto Local a GitHub
+
+```ssh
+	git init
+```
+```ssh
+	git add .
+```
+```ssh
+	git commit -m "first commit"
+```
+```ssh
+    git remote set-url origin https://github.com/MyRepo/project.git
+	git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+```
+```ssh
+	git push -u origin master
+```
+
 ## Configuración Básica
 
 Configurar Nombre que salen en los commits
